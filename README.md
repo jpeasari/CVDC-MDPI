@@ -15,15 +15,15 @@ This repository contains a custom Python workflow to generate **phylogenetic tre
 
 ## 🧪 Data
 
-- 28 genomes (Pasteurellaceae, *Spirabiliibacterium*, CVDC isolates, *S. mucosae* TN_CUL_2021)  
-- Reference genomes from NCBI  
+- 28 genomes (Pasteurellaceae Genomes) 
+- 25 genomes were downloaded from NCBI, Spirabiliibacterium mucosae TN_CUL_2021 provided by the original author and 2 CVDC Isolates 
 
 ---
 
 ## ⚙️ Workflow
 
 1. Run ABRicate on genomes  
-2. Generate heatmap (`abricate.ipynb`)  
+2. Generate heatmap (`ABRicate_Heatmap.ipynb`)  
 3. Align sequences with REALPHY  
 4. Build tree with IQ-TREE (`.tree` file)  
 5. Run Python script:
