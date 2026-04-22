@@ -20,15 +20,18 @@ This repository contains a custom Python workflow to generate **phylogenetic tre
 
 ---
 
-## ⚙️ Workflow
+## ⚙️ Workflow Heatmap
 
 1. Run ABRicate on genomes  
-2. Generate heatmap (`ABRicate_Heatmap.ipynb`)  
-3. Align sequences with REALPHY  
-4. Build tree with IQ-TREE (`.tree` file)  
-5. Run Python script:
-   - Input: `.tree`  
-   - Output: `formatted_tree.nwk` + final tree  
+2. Generate heatmap (`ABRicate_Heatmap.ipynb`)
+
+## ⚙️ Workflow Phylogenetics Tree
+   
+1. Align sequences with REALPHY  
+2. Build tree with IQ-TREE (`.tree` file)  
+3. Run Python script:
+   - Input: `polymorphisms_move.phy.treefile`  
+   - Output: `formatted_tree.nwk` + final tree  in tif format
 
 ---
 
