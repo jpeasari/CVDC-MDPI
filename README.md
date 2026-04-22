@@ -7,7 +7,7 @@ This repository contains a custom Python workflow to generate **phylogenetic tre
 ## 📌 Overview
 
 - Virulence factors identified using ABRicate with VFDB  
-- Heatmaps generated from ABRicate outputs (`abricate.ipynb`)  
+- Heatmaps generated from ABRicate outputs (`ABRicate_Heatmap.ipynb`)  
 - Phylogenetic analysis performed using REALPHY and IQ-TREE  
 - Custom Python script used for tree formatting and visualization  
 
