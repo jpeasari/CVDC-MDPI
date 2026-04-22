@@ -1,6 +1,6 @@
 # 🧬 Phylogenetic Tree & Heatmap Pipeline
 
-This repository contains a custom Python workflow to generate **phylogenetic trees** and **virulence factor heatmaps** from bacterial genomes.
+This repository provides a custom Python workflow for visualizing phylogenetic trees and generating heatmaps of virulence factors derived from bacterial genomes.
 
 ---
 
