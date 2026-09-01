@@ -32,9 +32,9 @@ This repository provides a custom Python workflow for visualizing phylogenetic t
 ## ⚙️ Workflow ABRicate Heatmap
 
 1. Run ABRicate on genomes  
-2. Generate heatmap using `ABRicate_Heatmap.ipynb`
+2. Generate heatmap using `Create_Abricate_Heatmap.ipynb`
    - Input: `abricate_all_updated.csv`
-   - Output: `JVDI_Figure2.tif`
+   - Output: `MDPI_abricate_9_01_2026.tif`
 
 ---
 
