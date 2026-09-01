@@ -27,7 +27,7 @@ This repository provides a custom Python workflow for visualizing phylogenetic t
 2. Build tree with IQ-TREE (`.tree` file)  
 3. Run Python script:
    - Input: `polymorphisms_move.phy.treefile`  
-   - Output: `formatted_tree.nwk` + `JVDI_Figure1.tif`
+   - Output: `formatted_tree.nwk` + `MDPI_PhylogeneticsTree_9_01_2026.tif`
 
 ## ⚙️ Workflow ABRicate Heatmap
 
