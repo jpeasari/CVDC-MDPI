@@ -25,7 +25,7 @@ This repository provides a custom Python workflow for visualizing phylogenetic t
    
 1. Align sequences with REALPHY  
 2. Build tree with IQ-TREE (`.tree` file)  
-3. Run Python script:
+3. Run Jupyter Notebook `Create_PhylogeneticsTree.ipynb`
    - Input: `polymorphisms_move.phy.treefile`  
    - Output: `formatted_tree.nwk` + `MDPI_PhylogeneticsTree_9_01_2026.tif`
 
